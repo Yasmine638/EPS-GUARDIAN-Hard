@@ -28,9 +28,9 @@ The system follows a hybrid two-layer architecture combining rule-based physics 
 
 ### Fusion Layer:
 - Combines AI reconstruction error with deterministic rules to classify the EPS state as:
-  - 🟢 Normal
-  - 🟡 Warning
-  - 🔴 Critical
+  -  Normal
+  -  Warning
+  -  Critical
 
 ### OBC Layer (LSTM):
 - Performs advanced validation of anomalies using temporal data sequences.
